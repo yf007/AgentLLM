@@ -33,7 +33,7 @@
     "axios": "^0.26.0",
     "chromadb": "^1.4.1",
     "clsx": "^1.2.1",
-    "framer-motion": "^10.11.2",
+    "framer-motion": "^10.11.6",
     "html-to-image": "^1.11.11",
     "langchain": "^0.0.64",
     "micro": "^10.0.1",
